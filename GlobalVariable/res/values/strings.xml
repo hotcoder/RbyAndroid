@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GlobalVariable</string>
+    <string name="menu_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="DescriptionFirst">On This Screen Setting Name And Value In Global/Application Context.</string>
+    <string name="LaunchSecond">Launch Second Screen</string>
+    <string name="LaunchFirstSecreen">Launch First Screen</string>
+
+</resources>
